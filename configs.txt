@@ -99,4 +99,4 @@ vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=/linkws?
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@108.162.195.20:8880?path=/Telegram@mtmvpn/?ed=2560&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws#Telegram:@ezaccess1 - 🇩🇪 | 99
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#Telegram:@ezaccess1 - 🇺🇸 | 100
 
-## Updated at: 2025-08-02 12:00:07
+## Updated at: 2025-08-02 13:00:07
