@@ -99,4 +99,4 @@ vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaV
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.92:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram:@ezaccess1 - 🇩🇪 | 99
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇬🇮 | 100
 
-## Updated at: 2025-08-02 22:00:07
+## Updated at: 2025-08-02 23:00:07
