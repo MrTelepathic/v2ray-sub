@@ -16,7 +16,7 @@ Choose either method:
 ### 🔗 All Subscriptions
 - All Protocols:
 ```
-https://raw.githubusercontent.com/MrTelepathic/v2ray-sub/refs/heads/main/configs.txt
+https://raw.githubusercontent.com/MrTelepathic/v2ray-sub/refs/heads/main/configs.txt#EzAccess
 ```
 
 ## 📱 V2ray Clients
@@ -28,4 +28,5 @@ https://raw.githubusercontent.com/MrTelepathic/v2ray-sub/refs/heads/main/configs
 ## 🤍 Special Thanks To
 [@MrParazit](https://github.com/MrParAziT)
 [@Telepathic](https://t.me/Azolany)
+
 [@EzAccess](https://t.me/EzAccess1)
