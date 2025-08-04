@@ -99,4 +99,4 @@ vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?p
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#Telegram:@ezaccess1 - 🇫🇷 | 99
 vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 100
 
-## Updated at: 2025-08-04 06:00:07
+## Updated at: 2025-08-04 07:00:07
