@@ -99,4 +99,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.72.33:2020?security=none&encr
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 99
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 100
 
-## Updated at: 2025-08-05 15:00:07
+## Updated at: 2025-08-05 16:00:07
