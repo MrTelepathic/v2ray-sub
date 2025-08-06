@@ -99,4 +99,4 @@ vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&enc
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 99
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 100
 
-## Updated at: 2025-08-06 18:00:07
+## Updated at: 2025-08-06 19:00:07
