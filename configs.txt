@@ -99,4 +99,4 @@ vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&sec
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 99
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&type=tcp&headerType=none#Telegram:@ezaccess1 - 🇷🇺 | 100
 
-## Updated at: 2025-08-06 06:00:08
+## Updated at: 2025-08-06 07:00:07
