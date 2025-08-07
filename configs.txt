@@ -99,4 +99,4 @@ vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 99
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 100
 
-## Updated at: 2025-08-07 02:00:07
+## Updated at: 2025-08-07 03:00:07
