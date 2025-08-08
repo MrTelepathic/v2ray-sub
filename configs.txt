@@ -96,8 +96,8 @@ vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&t
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#Telegram:@ezaccess1 - 🇮🇪 | 95
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#Telegram:@ezaccess1 - 🇮🇪 | 96
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&sni=yahoo.com&fp=chrome&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8&type=tcp&packetEncoding=xudp&encryption=none#Telegram:@ezaccess1 - 🇮🇪 | 97
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:2096?path=/&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇺🇸 | 98
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:443?path=/&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇺🇸 | 99
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:8443?path=/&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇺🇸 | 100
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:443?path=/&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇺🇸 | 98
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:8443?encryption=none&security=tls&type=ws&path=/#Telegram:@ezaccess1 - 🇬🇧 | 99
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN&encryption=none&security=tls&allowInsecure=1&type=ws&path=/#Telegram:@ezaccess1 - 🇬🇧 | 100
 
-## Updated at: 2025-08-07 20:00:07
+## Updated at: 2025-08-07 21:00:07
