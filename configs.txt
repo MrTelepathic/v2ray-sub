@@ -100,4 +100,4 @@ vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&e
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 99
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 100
 
-## Updated at: 2025-08-08 09:00:07
+## Updated at: 2025-08-08 10:00:07
