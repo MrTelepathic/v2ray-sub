@@ -100,4 +100,4 @@ vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&en
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 99
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 100
 
-## Updated at: 2025-08-08 05:00:07
+## Updated at: 2025-08-08 06:00:07
