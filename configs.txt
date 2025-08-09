@@ -95,9 +95,9 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 94
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 95
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram:@ezaccess1 - 🇺🇸 | 96
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 97
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 98
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 99
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 100
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#Telegram:@ezaccess1 - 🇺🇸 | 97
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 98
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&authority=/BIA_TELEGRAM@PRUOXYI_BIA_CHANEL_PRUOXYI&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 99
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 100
 
-## Updated at: 2025-08-09 18:00:11
+## Updated at: 2025-08-09 19:00:11
