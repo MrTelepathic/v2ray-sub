@@ -97,7 +97,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 96
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 97
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram:@ezaccess1 - 🇺🇸 | 98
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 99
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 100
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 99
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#Telegram:@ezaccess1 - 🇺🇸 | 100
 
-## Updated at: 2025-08-09 16:00:11
+## Updated at: 2025-08-09 17:00:11
