@@ -92,12 +92,12 @@ vmess://ewogICAgInYiOiAiMiIsCiAgICAiYWRkIjogIjE0Ni41OS41NS41MCIsCiAgICAicG9ydCI6
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 91
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=&encryption=none&headerType=&type=tcp#Telegram:@ezaccess1 - 🇺🇸 | 92
 vmess://ewogICAgInYiOiAiMiIsCiAgICAiYWRkIjogIjE0Ni41OS41NS41MCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJhaWQiOiAwLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJuZXQiOiAid3MiLAogICAgInR5cGUiOiAibm9uZSIsCiAgICAidGxzIjogInRscyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsCiAgICAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLAogICAgInBhdGgiOiAiXC9saW5rdndzIiwKICAgICJwcyI6ICJUZWxlZ3JhbTpAZXphY2Nlc3MxIC0g8J+Hq/Cfh7cgfCA5MyIKfQ==
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#Telegram:@ezaccess1 - 🇩🇪 | 94
-vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 95
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram:@ezaccess1 - 🇩🇪 | 96
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇫🇷 | 94
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram:@ezaccess1 - 🇩🇪 | 95
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 96
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 97
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 98
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇺🇸 | 98
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇺🇸 | 99
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇺🇸 | 100
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇬🇧 | 100
 
-## Updated at: 2025-08-11 17:00:11
+## Updated at: 2025-08-11 18:00:11
