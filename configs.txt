@@ -94,10 +94,10 @@ vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?encryption=none&s
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/lkjdasws#Telegram:@ezaccess1 - 🇲🇩 | 93
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/teqalfws#Telegram:@ezaccess1 - 🇫🇷 | 94
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?encryption=none&security=tls&type=ws&path=/teqalfws#Telegram:@ezaccess1 - 🇫🇷 | 95
-vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.255.178.188&path=/vless#Telegram:@ezaccess1 - 🇪🇪 | 96
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:8443?encryption=none&security=tls&type=ws&path=/#Telegram:@ezaccess1 - 🇬🇧 | 97
-vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/jzonrlws#Telegram:@ezaccess1 - 🇫🇷 | 98
-vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 99
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?encryption=none&security=tls&type=ws&path=/lfcinsws#Telegram:@ezaccess1 - 🇹🇷 | 100
+vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/jzonrlws#Telegram:@ezaccess1 - 🇫🇷 | 96
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇨🇦 | 97
+vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?encryption=none&security=tls&type=ws&path=/lfcinsws#Telegram:@ezaccess1 - 🇹🇷 | 98
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇨🇾 | 99
+vless://cba08f90-6b6e-4f51-8d07-d9dc01624706@51.38.129.192:54217?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=RviJb4RJy0JTMTcslnAJkgXcZZGNcFDxM_niM_kV61k&sid=58ce1e2f7889b6&spx=/&type=tcp&headerType=none#Telegram:@ezaccess1 - 🇵🇱 | 100
 
-## Updated at: 2025-08-11 10:00:59
+## Updated at: 2025-08-11 11:00:11
