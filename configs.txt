@@ -94,10 +94,10 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880/?type=grpc&enc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇨🇾 | 93
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 94
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 95
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 96
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 97
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 98
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 99
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 100
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 96
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 97
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#Telegram:@ezaccess1 - 🇺🇸 | 98
+vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429/?type=tcp&encryption=none&flow=#Telegram:@ezaccess1 - 🇨🇦 | 99
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 100
 
-## Updated at: 2025-08-12 06:00:11
+## Updated at: 2025-08-12 07:00:11
