@@ -86,18 +86,18 @@ vless://2e422a85-e400-4627-a503-22c24e982d5a@185.231.205.176:443?encryption=none
 vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/yohyowws#Telegram:@ezaccess1 - 🇲🇩 | 85
 vless://4bae5fe4-16a9-4c52-9056-3442b0f1b430@185.231.205.179:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/qurfvfws#Telegram:@ezaccess1 - 🇫🇷 | 86
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/lfcinsws#Telegram:@ezaccess1 - 🇹🇷 | 87
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/#Telegram:@ezaccess1 - 🇬🇧 | 88
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=/#Telegram:@ezaccess1 - 🇬🇧 | 89
-vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/jzmdpvws#Telegram:@ezaccess1 - 🇲🇩 | 90
-vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/hfwsxtws#Telegram:@ezaccess1 - 🇲🇩 | 91
-vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/cdfighws#Telegram:@ezaccess1 - 🇲🇩 | 92
-vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/zqpahpws#Telegram:@ezaccess1 - 🇲🇩 | 93
-vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjguNjUiLAogICAgImFpZCI6ICIwIiwKICAgICJhbHBuIjogIiIsCiAgICAiZnAiOiAiIiwKICAgICJob3N0IjogImthcGVsbGVuZy5jb20iLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIlwvbGlua3Z3cyIsCiAgICAicG9ydCI6ICI0NDMiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAia2FwZWxsZW5nLmNvbSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICItLS0iLAogICAgInYiOiAiMiIsCiAgICAicHMiOiAiVGVsZWdyYW06QGV6YWNjZXNzMSAtIPCfh6nwn4eqIHwgOTQiCn0=
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Telegram:@ezaccess1 - 🇩🇪 | 95
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Telegram:@ezaccess1 - 🇩🇪 | 96
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram:@ezaccess1 - 🇩🇪 | 97
-vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?security=tls&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&encryption=none#Telegram:@ezaccess1 - 🇺🇸 | 98
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇲🇩 | 99
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇲🇩 | 100
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/jzmdpvws#Telegram:@ezaccess1 - 🇲🇩 | 88
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/hfwsxtws#Telegram:@ezaccess1 - 🇲🇩 | 89
+vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/cdfighws#Telegram:@ezaccess1 - 🇲🇩 | 90
+vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/zqpahpws#Telegram:@ezaccess1 - 🇲🇩 | 91
+vmess://ewogICAgImFkZCI6ICI1Ny4xMjkuMjguNjUiLAogICAgImFpZCI6ICIwIiwKICAgICJhbHBuIjogIiIsCiAgICAiZnAiOiAiIiwKICAgICJob3N0IjogImthcGVsbGVuZy5jb20iLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIlwvbGlua3Z3cyIsCiAgICAicG9ydCI6ICI0NDMiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAia2FwZWxsZW5nLmNvbSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICItLS0iLAogICAgInYiOiAiMiIsCiAgICAicHMiOiAiVGVsZWdyYW06QGV6YWNjZXNzMSAtIPCfh6nwn4eqIHwgOTIiCn0=
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Telegram:@ezaccess1 - 🇩🇪 | 93
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Telegram:@ezaccess1 - 🇩🇪 | 94
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram:@ezaccess1 - 🇩🇪 | 95
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇲🇩 | 96
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇲🇩 | 97
+vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?path=/yohyowws&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇲🇩 | 98
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#Telegram:@ezaccess1 - 🇺🇸 | 99
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Telegram:@ezaccess1 - 🇺🇸 | 100
 
-## Updated at: 2025-08-12 23:00:11
+## Updated at: 2025-08-13 00:00:11
