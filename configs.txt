@@ -96,8 +96,8 @@ vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇫🇷 | 95
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇫🇷 | 96
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@ezaccess1 - 🇺🇸 | 97
-vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&sid=2075&spx=/&type=tcp&headerType=none#Telegram:@ezaccess1 - 🇬🇧 | 98
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@gb01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#Telegram:@ezaccess1 - 🇩🇪 | 99
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?path=/&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇬🇧 | 100
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?path=/&security=tls&encryption=none&type=ws#Telegram:@ezaccess1 - 🇬🇧 | 98
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Telegram:@ezaccess1 - 🇩🇪 | 99
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&security=none&type=grpc&authority=/?bia_telegram@marambashi_marambashi_marambashi_marambashi&mode=gun#Telegram:@ezaccess1 - 🇺🇸 | 100
 
-## Updated at: 2025-08-13 22:00:11
+## Updated at: 2025-08-13 23:00:11
