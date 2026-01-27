@@ -29,4 +29,3 @@ https://raw.githubusercontent.com/MrTelepathic/v2ray-sub/refs/heads/main/configs
 [@MrParazit](https://github.com/MrParAziT)
 [@Telepathic](https://t.me/Azolany)
 
-[@EzAccess](https://t.me/EzAccess1)
